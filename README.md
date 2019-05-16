@@ -1,6 +1,6 @@
 # assignment-2-robot
 <li>
-		<b>I. Member</b>:
+		<b>Member</b>:
 		<ol>
 			<b>Cao Đức Huân</b><br>
 			<b>Nguyễn Anh Phương</b><br>
