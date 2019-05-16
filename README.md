@@ -32,8 +32,8 @@
 <hr>
 <li>
 	<b>Detection:</b>
-	
-		--------------------------------------------- ![alt tag](https://raw.githubusercontent.com/duchuan28/assignment-2-robot/master/Screenshot%20from%202019-05-16%2016-02-07.png) ---------------------------------------------
-		
 </li>
+
+--------------------------------------------- ![alt tag](https://raw.githubusercontent.com/duchuan28/assignment-2-robot/master/Screenshot%20from%202019-05-16%2016-02-07.png) ---------------------------------------------
+
 <hr>
