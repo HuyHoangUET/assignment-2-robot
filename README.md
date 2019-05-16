@@ -1,5 +1,6 @@
 # assignment-2-robot
 <li>
+		<b>I. Member</b>:
 		<ol>
 			<b>Cao Đức Huân</b><br>
 			<b>Nguyễn Anh Phương</b><br>
@@ -31,8 +32,8 @@
 <hr>
 <li>
 	<b>Detection:</b>
-	<ol>
-		--------------------------------------------- ![alt tag](https://raw.githubusercontent.com/duchuan28/assignment-2-robot/master/Screenshot%20from%202019-05-16%2016-02-07.png) --------------------------------------------- 
-	</ol>
+	
+		--------------------------------------------- ![alt tag](https://raw.githubusercontent.com/duchuan28/assignment-2-robot/master/Screenshot%20from%202019-05-16%2016-02-07.png) ---------------------------------------------
+		
 </li>
 <hr>
